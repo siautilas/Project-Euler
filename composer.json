@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "problems/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
+}
